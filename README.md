@@ -3,4 +3,4 @@
 - Scraped data from practo.com to gather relevant information for analysis.
 - Performed extensive Exploratory Data Analysis (EDA) to gain insights and identify patterns in the data.
 - Built a machine learning model to predict doctor fees based on various factors.
-- Created a webpage to showcase the results and provide an interactive user interface.
+
